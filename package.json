@@ -1,0 +1,17 @@
+{
+  "name": "applelectron",
+  "version": "0.0.1",
+  "description": "primer proyecto con electron",
+  "main": "main.js",
+  "author": "Marvin Zuniga Alvarado",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^21.2.3"
+  },
+  "dependencies": {
+    "electron-reloader": "^1.2.3"
+  }
+}
